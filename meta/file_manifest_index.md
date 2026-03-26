@@ -71,6 +71,7 @@
 - meta/contradiction_log.md
 - meta/cross_reference_matrix.md
 - meta/file_manifest_index.md
+- meta/repo_structure_suggestion.md
 - meta/source_material_attribution.md
 - residue/2012_industry.md
 - residue/audience_demographics.md
